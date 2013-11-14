@@ -33,7 +33,15 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
-
+/**
+ * 
+ * 项目名称：easy-im    
+ * 类描述：   
+ * 创建人：Zss
+ * 创建时间：2013-11-14 下午12:06:58   
+ * 修改人：Zss 
+ * @version
+ */
 public class ChatActivity extends Activity {
 
 	private String userChat="";//当前聊天
