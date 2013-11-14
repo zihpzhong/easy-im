@@ -79,7 +79,7 @@ public class ChatActivity extends Activity {
 		listview.setAdapter(adapter);		
 		//获取文本信息
 		this.msgText = (EditText) findViewById(R.id.formclient_text);
-		//消息监听
+		
 		ChatManager cm = XmppConnection.getConnection().getChatManager();		
 		//发送消息给pc服务器的好友（获取自己的服务器，和好友）
 		final Chat newchat = cm.createChat(pFRIENDID, null);
