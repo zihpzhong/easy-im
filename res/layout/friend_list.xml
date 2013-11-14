@@ -52,7 +52,7 @@
 	            android:layout_weight="1.0"
 	            android:layout_alignBottom="@+id/friend_list_myImg"
 	            android:layout_toRightOf="@+id/friend_list_myImg"
-	            android:text="Q我吧，期待......"
+	            android:text="......"
 	            android:textColor="#ffffff"/>     
     </RelativeLayout>
     <LinearLayout

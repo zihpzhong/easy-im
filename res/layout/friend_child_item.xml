@@ -26,7 +26,7 @@
 	    android:layout_below="@id/friend_nickname"
 	    android:layout_height="wrap_content"
 	    android:textSize="12.0sp"
-	    android:text="Q我吧，期待..."/>
+	    android:text="..."/>
 	<ImageView 
 	    android:layout_below="@id/friend_icon"
 	    android:layout_width="fill_parent"
