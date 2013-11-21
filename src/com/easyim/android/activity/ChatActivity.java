@@ -137,7 +137,7 @@ public class ChatActivity extends Activity {
 		btsend.setOnClickListener(new OnClickListener() {
 			@Override
 			public void onClick(View v) {
-				//获取text文本
+				//获取text文本k
 				String msg = msgText.getText().toString();			
 				if(msg.length() > 0){
 					//发送消息
