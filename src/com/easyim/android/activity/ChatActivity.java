@@ -274,6 +274,8 @@ public class ChatActivity extends Activity {
 							message.sendToTarget();
 							Toast.makeText(ChatActivity.this,"·¢ËÍ³É¹¦!",Toast.LENGTH_SHORT).show();
 						}
+						
+						
 						 Looper.loop();
 					}
 				} 
